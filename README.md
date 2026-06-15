@@ -61,18 +61,6 @@ hackerrank/
 
 ---
 
-## 📊 Problem-Solving Approach
-
-For each problem, I aim to include:
-
-- Problem name
-- Platform link
-- Approach/intuition
-- Python solution
-- Time Complexity
-- Space Complexity
-
----
 
 ## 🏆 Profiles
 
